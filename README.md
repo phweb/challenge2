@@ -23,6 +23,3 @@ O app permitirá ao usuário inserir o nome de um repositório existente que ser
 Repositório: https://api.github.com/repos/react-community/react-navigation
 Issues: https://api.github.com/repos/react-community/react-navigation/issues
 
-## Entrega
-
-O candidato devera levar na entrevista o app funcional + código fonte para discussão das estrategias utilizadas na codificação.
